@@ -1,0 +1,5 @@
+.idea
+db.sqlite3
+/core/__pycache__
+/core/migrations/__pycache__
+/hellodjango/__pycache__
